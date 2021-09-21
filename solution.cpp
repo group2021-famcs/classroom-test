@@ -5,7 +5,7 @@
 using namespace std;
 
 double GetSum(const vector<double>& values) {
-  // YOUR_CODE_HERE
+  return 0;
 }
 
 void BubbleSort(std::vector<std::string>& values) {
