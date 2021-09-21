@@ -30,4 +30,4 @@ jobs:
       continue-on-error: true
     
     - name: Generate output
-      run: echo "::set-output name=score::12"
+      run: echo "::notice title=score::12 points"
