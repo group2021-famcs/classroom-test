@@ -9,5 +9,5 @@ double GetSum(const vector<double>& values) {
 }
 
 void BubbleSort(std::vector<std::string>& values) {
-  // YOUR_CODE_HERE
+  std::sort(values.begin(), values.end());
 }
